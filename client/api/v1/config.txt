@@ -4,7 +4,7 @@
   "target": 1,
   "email": "",
   "tg": "https://t.me/yungroup",
-  "crisp": "a990bbef-19c9-4ef6-80d3-7c5212ee2790",
+  "crisp": "",
   "loginless": 0,
   "loginless_link": "",
   "code_login": 1,
