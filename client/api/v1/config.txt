@@ -1,9 +1,9 @@
 {
   "key": "v2b_naicha",
-  "host_source": "http://sg1.whatfuck.top:35651",
+  "host_source": "http://sg2.whatfuck.top:14317",
   "target": 1,
   "email": "",
-  "tg": "https://t.me/yungroup",
+  "tg": "",
   "crisp": "",
   "loginless": 0,
   "loginless_link": "",
@@ -17,10 +17,9 @@
   "line_flag_regex": "(^[^#|\\s+]*)[#|\\s+]",
   "line_exclude_loc": 0,
   "payment_config": {
-    "Alipay": "1",
-    "Wechat": "1"
+    "Alipay": "1"
   },
   "hosts": [
-    "http://sg1.whatfuck.top:35651"
+    "http://sg2.whatfuck.top:14317"
   ]
 }
