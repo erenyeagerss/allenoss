@@ -1,0 +1,26 @@
+{
+  "key": "v2b_naicha",
+  "host_source": "http://sg1.whatfuck.top:35651",
+  "target": 1,
+  "email": "",
+  "tg": "https://t.me/yungroup",
+  "crisp": "a990bbef-19c9-4ef6-80d3-7c5212ee2790",
+  "loginless": 0,
+  "loginless_link": "",
+  "code_login": 1,
+  "code_register": 1,
+  "captcha_login": 1,
+  "captcha_register": 1,
+  "captcha_checkin": 1,
+  "notice": 1,
+  "checkin": 1,
+  "line_flag_regex": "(^[^#|\\s+]*)[#|\\s+]",
+  "line_exclude_loc": 0,
+  "payment_config": {
+    "Alipay": "1",
+    "Wechat": "1"
+  },
+  "hosts": [
+    "http://sg1.whatfuck.top:35651"
+  ]
+}
