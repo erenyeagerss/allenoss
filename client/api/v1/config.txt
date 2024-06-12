@@ -1,6 +1,6 @@
 {
   "key": "v2b_naicha",
-  "host_source": "http://sg1.whatfuck.top:35651",
+  "host_source": "",
   "target": 1,
   "email": "",
   "tg": "",
