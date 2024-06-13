@@ -20,6 +20,6 @@
     "Alipay": "1"
   },
   "hosts": [
-    "http://sg1.whatfuck.top:35651"
+    "https://sublinkboard.top"
   ]
 }
