@@ -17,7 +17,7 @@
   "line_flag_regex": "(^[^#|\\s+]*)[#|\\s+]",
   "line_exclude_loc": 0,
   "payment_config": {
-    "Alipay": "1"
+    "Alipay": "2"
   },
   "hosts": [
     "https://superboard.top"
