@@ -1,6 +1,6 @@
 {
   "key": "v2b_naicha",
-  "host_source": "https://ziniao.top",
+  "host_source": "https://superboard.top",
   "target": 1,
   "email": "",
   "tg": "",
