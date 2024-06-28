@@ -20,6 +20,6 @@
     "Alipay": "2"
   },
   "hosts": [
-    "https://superboard.top"
+    "https://ziniaocloud.shop"
   ]
 }
