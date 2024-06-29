@@ -20,6 +20,6 @@
     "Alipay": "2"
   },
   "hosts": [
-    "https://ziniaocloud.top"
+    "https://ziniaocloud.shop"
   ]
 }
