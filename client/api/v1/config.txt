@@ -1,6 +1,6 @@
 {
   "key": "v2b_naicha",
-  "host_source": "https://ziniao.top",
+  "host_source": "https://ziniao.cc",
   "target": 1,
   "email": "",
   "tg": "",
