@@ -1,6 +1,6 @@
 {
   "key": "v2b_naicha",
-  "host_source": "https://ziniaocloud.shop",
+  "host_source": "https://ziniao.sbs",
   "target": 1,
   "email": "",
   "tg": "",
@@ -20,6 +20,6 @@
     "Alipay": "2"
   },
   "hosts": [
-    "https://ziniaocloud.shop"
+    "https://ziniao.sbs"
   ]
 }
