@@ -1,6 +1,6 @@
 {
   "key": "YXlsZ1NTZ21haWwsLi82NjZ4Ym9hcmRA",
-  "host_source": "https://tz02.top",
+  "host_source": "https://sss.ziniaoapp.com",
   "target": 1,
   "email": "",
   "tg": "",
@@ -20,6 +20,6 @@
     "Alipay": "2"
   },
   "hosts": [
-    "https://tz02.top"
+    "https://sss.ziniaoapp.com"
   ]
 }
