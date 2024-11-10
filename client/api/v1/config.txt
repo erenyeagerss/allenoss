@@ -1,5 +1,5 @@
 {
-  "key": "YXlsZ1NTZ21haWwsLi82NjZ4Ym9hcmRA",
+  "key": "v2b_naicha",
   "host_source": "https://sss.ziniaoapp.com",
   "target": 1,
   "email": "",
