@@ -1,6 +1,6 @@
 {
   "key": "v2b_naicha",
-  "host_source": "https://ziniaoapp.com",
+  "host_source": "https://ziniaocloud.top",
   "host_source": "https://vip.ziniaoapp.com",
   "target": 1,
   "email": "",
@@ -21,7 +21,7 @@
     "Alipay": "2"
   },
   "hosts": [
-    "https://ziniaoapp.com"
+    "https://ziniaocloud.top"
     "https://vip.ziniaoapp.com"
   ]
 }
